@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Wan Muhammad Aniq Irfan Wan Mohd Lutpi</h1>
 
 <p align="center">
-  <img src="assets/images/IMG_9349.JPG" width="600" alt="Aniq Banner" />
+  <img src="assets/images/IMG_9349.JPG" width="400" alt="Aniq Banner" />
 </p>
 
 
