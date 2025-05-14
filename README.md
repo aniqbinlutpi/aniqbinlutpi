@@ -1,13 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Wan Muhammad Aniq Irfan Wan Mohd Lutpi</h1>
+<div align="center">
+  
+  # Hi there 👋, I'm Wan Muhammad Aniq Irfan Wan Mohd Lutpi
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FA4FC&center=true&vCenter=true&width=435&lines=Software+Developer;Mobile+App+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <img src="assets/images/IMG_9349.JPG" width="400" alt="Aniq Banner" />
+  </p>
 
-<p align="center">
-  <img src="assets/images/IMG_9349.JPG" width="400" alt="Aniq Banner" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=aniqbinlutpi&style=for-the-badge&color=blue" alt="Profile Views"/>
+  </p>
+</div>
 
-
----
-
-### 👨‍💻 About Me
+<div align="center">
+  <h2>🌟 About Me</h2>
+  <img align="right" width="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
 - 👀 I’m interested in **Software Development**, **Mobile Apps**, and **Cybersecurity**
 - 🌱 I’m currently learning **Flutter**, **Firebase**, and **Laravel**
@@ -20,6 +29,10 @@
 ---
 
 ### 🛠️ Tech Stack
+
+<div align="center">
+  <h4>⚡ Languages & Frameworks</h4>
+</div>
 
 <p align="left">
   <!-- Frontend -->
@@ -62,6 +75,10 @@
 
 ### ✨ Let's Connect
 
+<div align="center">
+  <p>Feel free to reach out to me through any of these platforms!</p>
+</div>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/wan-aniq-wan-lutpi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -73,6 +90,10 @@
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 ---
 
