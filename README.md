@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Flutter**, **Firebase**, and **Laravel**
 - 💞️ I’m looking to collaborate on **Open Source Projects** and **Student Tech Communities**
 - 📫 How to reach me:  
-  [![Gmail Badge](https://img.shields.io/badge/-aniqirfan1809@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aniqirfan1809@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-waniqlutpi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:waniqlutpi@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I can write code faster with lo-fi music in the background 🎧*
 
@@ -69,7 +69,7 @@
   <a href="https://x.com/aniqipangg" target="_blank">
     <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:aniqirfan1809@gmail.com">
+  <a href="mailto:waniqlutpi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
