@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Flutter**, **Firebase**, and **Laravel**
 - 💞️ I’m looking to collaborate on **Open Source Projects** and **Student Tech Communities**
 - 📫 How to reach me:  
-  [![Gmail Badge](https://img.shields.io/badge/-aniqlutpi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aniqirfan1809@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-aniqirfan1809@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aniqirfan1809@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I can write code faster with lo-fi music in the background 🎧*
 
@@ -63,8 +63,11 @@
 ### ✨ Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/wan-aniq-wan-lutpi" target="_blank">
+  <a href="https://www.linkedin.com/in/wan-aniq-wan-lutpi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/aniqipangg" target="_blank">
+    <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:aniqirfan1809@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
