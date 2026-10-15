@@ -1,50 +1,11 @@
 <div align="center">
 
 ```text
-██╗    ██╗ ██████╗ ███╗   ██╗
-██║    ██║██╔═══██╗████╗  ██║
-██║ █╗ ██║██║   ██║██╔██╗ ██║
-██║███╗██║██║   ██║██║╚██╗██║
-╚███╔███╔╝╚██████╔╝██║ ╚████║
- ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝
+ _ _ _  ___  _ _ 
+| | | || . || ' |
+|_____||___||_|_|
 ```
 
-```text
-                  .-''''-.
-                .'        '.
-               /   _    _   \
-              :   (_)  (_)   :
-              |              |
-              :   \______/   :
-               \            /
-                '.        .'
-                  '-....-'
-           [ lofi / cyber / dev ]
-```
+> *"less, but better."*
 
 </div>
-
-```text
-┌── [profile]
-│
-├── role         :: software & mobile dev
-├── focus        :: flutter · laravel · firebase
-├── security     :: exploring cybersecurity
-└── contact      :: waniqlutpi@gmail.com
-```
-
----
-
-### $ cat /etc/environment
-
-```text
-[lang]    dart · php · python · javascript · sql
-[frameworks] flutter · laravel · react · node.js
-[infra]   mysql · firebase · docker · linux · git
-```
-
----
-
-```text
-[won@terminal ~]$ exit
-```
