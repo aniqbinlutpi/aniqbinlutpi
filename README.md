@@ -9,8 +9,18 @@
  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<!-- B&W Animated ASCII Anime GIF -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="ascii anime animation"/>
+```text
+                  .-''''-.
+                .'        '.
+               /   _    _   \
+              :   (_)  (_)   :
+              |              |
+              :   \______/   :
+               \            /
+                '.        .'
+                  '-....-'
+           [ lofi / cyber / dev ]
+```
 
 </div>
 
@@ -18,8 +28,8 @@
 ┌── [profile]
 │
 ├── role         :: software & mobile dev
-├── stack        :: flutter · laravel · firebase
-├── security     :: cybersecurity enthusiast
+├── focus        :: flutter · laravel · firebase
+├── security     :: exploring cybersecurity
 └── contact      :: waniqlutpi@gmail.com
 ```
 
@@ -29,8 +39,8 @@
 
 ```text
 [lang]    dart · php · python · javascript · sql
-[stack]   flutter · laravel · react · node.js
-[tools]   mysql · firebase · docker · linux · git
+[frameworks] flutter · laravel · react · node.js
+[infra]   mysql · firebase · docker · linux · git
 ```
 
 ---
