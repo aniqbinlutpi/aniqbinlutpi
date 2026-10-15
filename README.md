@@ -1,40 +1,40 @@
+<div align="center">
+
 ```text
- █████╗ ███╗   ██╗██╗ ██████╗ 
-██╔══██╗████╗  ██║██║██╔═══██╗
-███████║██╔██╗ ██║██║██║   ██║
-██╔══██║██║╚██╗██║██║██║   ██║
-██║  ██║██║ ╚████║██║╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝ 
+██╗    ██╗ ██████╗ ███╗   ██╗
+██║    ██║██╔═══██╗████╗  ██║
+██║ █╗ ██║██║   ██║██╔██╗ ██║
+██║███╗██║██║   ██║██║╚██╗██║
+╚███╔███╔╝╚██████╔╝██║ ╚████║
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-### $ whoami
+<!-- B&W Animated ASCII Anime GIF -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="ascii anime animation"/>
 
-> **Wan Muhammad Aniq Irfan**  
-> Software Developer · Mobile App Developer · Cybersecurity Enthusiast
+</div>
 
 ```text
-┌── [about]
+┌── [profile]
 │
-├── interests    : Software Development · Mobile Apps · Cybersecurity
-├── learning     : Flutter · Laravel · Firebase
-├── focus        : Clean architecture & backend systems
-├── collaborate  : Open Source projects & student tech communities
-└── reach_me     : waniqlutpi@gmail.com
+├── role         :: software & mobile dev
+├── stack        :: flutter · laravel · firebase
+├── security     :: cybersecurity enthusiast
+└── contact      :: waniqlutpi@gmail.com
 ```
 
 ---
 
-### $ cat /etc/tech-stack
+### $ cat /etc/environment
 
 ```text
-languages    :: Dart, PHP, JavaScript, Python, Java, SQL, HTML/CSS
-frameworks   :: Flutter, Laravel, React, Node.js
-databases    :: MySQL, MongoDB, Firebase
-tools        :: Git, Docker, Postman, Linux, VS Code
+[lang]    dart · php · python · javascript · sql
+[stack]   flutter · laravel · react · node.js
+[tools]   mysql · firebase · docker · linux · git
 ```
 
 ---
 
 ```text
-[~] $ mail -s "Hello" waniqlutpi@gmail.com
+[won@terminal ~]$ exit
 ```
